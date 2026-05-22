@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Mauricio 👋
 
-<!--
-**maurirod48/maurirod48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer based in Nicaragua, currently studying Computer Engineering at UNI.
 
-Here are some ideas to get you started:
+I build web applications using **Laravel**, **PHP**, **JavaScript**, **MySQL**, and **HTML/CSS**
+in a Linux (Ubuntu) environment. I'm focused on growing into a professional full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Strengthening my Laravel & backend fundamentals
+- Building portfolio projects (social platform, live chat, task manager)
+- Learning modern JS patterns and REST API design
+
+### Tech I use
+`Laravel` `PHP` `JavaScript` `MySQL` `HTML/CSS` `Linux` `Git`
+
+📫 maurirodriguezm48@gmail.com  
+🌐 [Portfolio](https://maurirod48-portfolio.netlify.app)
